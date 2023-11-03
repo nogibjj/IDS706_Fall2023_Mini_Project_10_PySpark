@@ -14,3 +14,5 @@ nbval==0.9.6
 black==22.3.0
 # rust based linter
 ruff==0.0.284
+# pyspark
+pyspark==3.1.2
